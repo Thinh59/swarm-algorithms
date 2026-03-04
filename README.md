@@ -10,6 +10,7 @@
 
 ## Table of Contents
 - [Overview](#-overview)
+- [VideoDemo](#-videodemo)
 - [Features](#-features)
 - [Quick Start](#-quick-start)
 - [Algorithms](#-algorithms)
@@ -36,6 +37,10 @@ This project implements and compares **8 optimization algorithms** across **4 be
 - **Modular Architecture:** Easy to extend with new algorithms/problems
 
 ---
+## Video Demo:
+Youtube: [PopulationBasedOptimization](https://youtu.be/tpJ6Vg9RQkc?si=HWe3pnR0v2tvNkKq)
+
+--- 
 
 ## Features
 
